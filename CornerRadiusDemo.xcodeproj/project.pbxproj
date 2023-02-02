@@ -11,6 +11,7 @@
 		17FED2B42989BCE500E0F757 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FED2B32989BCE500E0F757 /* ContentView.swift */; };
 		17FED2B62989BCE800E0F757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17FED2B52989BCE800E0F757 /* Assets.xcassets */; };
 		17FED2B92989BCE800E0F757 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17FED2B82989BCE800E0F757 /* Preview Assets.xcassets */; };
+		17FED30A298C107C00E0F757 /* RoundedCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17FED309298C107C00E0F757 /* RoundedCorner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		17FED2B32989BCE500E0F757 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		17FED2B52989BCE800E0F757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17FED2B82989BCE800E0F757 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		17FED309298C107C00E0F757 /* RoundedCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCorner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				17FED2B12989BCE500E0F757 /* CornerRadiusDemoApp.swift */,
 				17FED2B32989BCE500E0F757 /* ContentView.swift */,
+				17FED309298C107C00E0F757 /* RoundedCorner.swift */,
 				17FED2B52989BCE800E0F757 /* Assets.xcassets */,
 				17FED2B72989BCE800E0F757 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17FED30A298C107C00E0F757 /* RoundedCorner.swift in Sources */,
 				17FED2B42989BCE500E0F757 /* ContentView.swift in Sources */,
 				17FED2B22989BCE500E0F757 /* CornerRadiusDemoApp.swift in Sources */,
 			);
